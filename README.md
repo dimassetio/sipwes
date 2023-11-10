@@ -1,1 +1,2 @@
-# sipwes
+# SIPWES (Sistem Informasi Pegawai Web Based) 
+sebuah aplikasi berbasis web yang dirancang untuk meningkatkan efisiensi dan produktivitas sebuah perusahaan dalam proses operasional perusahaan tersebut. Sistem ini berfokus pada pelacakan performa pegawai melalui fitur manajemen proyek yang terintegrasi dengan penghitungan gaji pegawai. Selain sistem ini dilengkapi dengan fitur-fitur pendukung yang dapat meringankan pekerjaan pegawai.
